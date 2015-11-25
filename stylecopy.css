@@ -1,0 +1,48 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	color: #29638F
+}
+
+.labheader {
+	padding-left: 15px;
+	padding-top: 70px;
+	font-size: 64px;
+	height: 150px;
+	background-color: #7685C1;
+}
+
+.floatright {
+	float: right;
+	width: 25%;
+}
+
+.labnav {
+	padding-left: 15px;
+	padding-top: 30px;
+	font-size: 16px;
+	background-color: #95BCF3;
+	height: 25px;
+}
+
+.in-line {
+	display: inline-block;
+}
+
+p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 15px;
+	padding-top: 30px;
+	font-size: 16px;
+	background-color: #B87BB7;
+	height: 100px;
+	width: 75%;
+}
+
+.form, .rules {
+	padding-left: 15px;
+	padding-top: 30px;
+	font-size: 16px;
+	background-color: #B8BEC7;
+	height: 165px;
+}
